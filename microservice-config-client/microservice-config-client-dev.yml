@@ -1,4 +1,6 @@
 name: zhangsan
 gender: 男
 age: 8888
-branch: master
+branch: v2.0
+info:
+  profile: dev
