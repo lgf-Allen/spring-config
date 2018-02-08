@@ -1,0 +1,2 @@
+api.OmsServiceUrl: http://192.168.88.8:80/mvtm-haseoms-service-web/service
+oauth2.accessTokenUri: http://192.168.88.8:80/mvtm-oauth2-authorization-server/oauth/token
